@@ -1,7 +1,7 @@
 :root {
 	--bg-color: hsl(49 37% 94%);
 	--typewriterSpeed: 6s;
-	--typewriterCharacters: 24;
+	--typewriterCharacters: 30;
 }
 
 body {
